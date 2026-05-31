@@ -3,7 +3,6 @@ __pycache__/
 *.pyo
 .DS_Store
 .idea/
-.vscode/
 
 # Working / scratch directories from local builds
 .work/
@@ -20,3 +19,5 @@ demo-grid.png
 # Local font caches / OS-specific
 *.swp
 *.swo
+config.bat
+node_modules
